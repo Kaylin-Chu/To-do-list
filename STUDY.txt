@@ -1,0 +1,3 @@
+google fonts embedding >:(
+copied the video's command worked into css worked, didn't put anything in html
+Don't understand why the google font code didn't work
